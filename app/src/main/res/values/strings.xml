@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Facturas Rojo V2</string>
+    <string name="inicio">INICIO</string>
+    <string name="button1">Button</string>
+    <string name="todo">TODO</string>
+    <string name="nueva_factura">NUEVA FACTURA</string>
+    <string name="registrar_cliente_nuevo">REGISTRAR CLIENTE NUEVO</string>
+    <string name="resumen_por_cliente">RESUMEN POR CLIENTE</string>
+    <string name="textview">TextView</string>
+    <string name="captura_datos_de_nueva_factura">Captura datos de nueva factura</string>
+    <string name="iconfac">iconfac</string>
+    <string name="autocompletetextview">AutoCompleteTextView</string>
+    <string name="cliente">Cliente</string>
+    <string name="forma_de_pago">Forma de Pago</string>
+    <string name="producto_o_servicio">Producto o Servicio</string>
+    <string name="unidad">Unidad</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="descripcion">Descripcion</string>
+    <string name="valor_unitario">Valor Unitario</string>
+    <string name="capturar">Capturar</string>
+    <string name="uso_cfdi">uso CFDI</string>
+    <string name="nombre_o_razon_social">Nombre o Razon Social</string>
+    <string name="registrar">Registrar</string>
+    <string name="rfc">RFC</string>
+    <string name="correo">correo</string>
+    <string name="cliente_CAV">CLIENTE</string>
+    <string name="correo_enc">CORREO</string>
+    <string name="rfc_enc">RFC</string>
+    <string name="cliente_enc">CLIENTE</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="editar">Editar</string>
+    <string name="atras">TODO</string>
+
+    <!--    DROPDOWN ITEMS  -->
+    <string-array name="nombre_cliente">
+        <item>DICONSA SA DE CV</item>
+        <item>CAVISSU SOLUCIONES</item>
+    </string-array>
+</resources>

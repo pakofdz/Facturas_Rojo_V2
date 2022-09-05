@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:onClick="clickRegistroCliente">
+
+    <TextView
+        android:id="@+id/tvNomCliente"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".30"
+        android:background="@drawable/syle_bordes"
+        android:text="TextView"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/tvRfcCliente"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.25"
+        android:background="@drawable/syle_bordes"
+        android:text="TextView"
+        android:textSize="10sp" />
+
+    <TextView
+        android:id="@+id/tvCorreoCliente"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight=".45"
+        android:background="@drawable/syle_bordes"
+        android:text="TextView"
+        android:textSize="10sp" />
+</TableRow>
