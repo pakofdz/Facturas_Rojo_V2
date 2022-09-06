@@ -1,6 +1,7 @@
 package com.example.facturasrojov2;
 
 //Hector was here
+//no me funciona el git
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
